@@ -6,7 +6,6 @@
 ## 安装步骤
 ``` 
 下载node环境 http://nodejs.cn/ （版本最好新一点，我使用的是10.14.2）
-
 git clone https://github.com/cxyxxx0924/renrenpay-server.git
 cd renrenpay-server
 npm i
